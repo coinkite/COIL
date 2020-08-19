@@ -1,17 +1,14 @@
-﻿
-					 ██████╗ ██████╗ ██╗██╗     
-					██╔════╝██╔═══██╗██║██║     
-					██║     ██║   ██║██║██║     
-					██║     ██║   ██║██║██║     
-					╚██████╗╚██████╔╝██║███████╗
-					 ╚═════╝ ╚═════╝ ╚═╝╚══════╝
-                            
 
-								COILv1
+                ██████╗ ██████╗ ██╗██╗     
+                ██╔════╝██╔═══██╗██║██║     
+                ██║     ██║   ██║██║██║COIL
+                ██║     ██║   ██║██║██║v1
+                ╚██████╗╚██████╔╝██║███████╗
+                 ╚═════╝ ╚═════╝ ╚═╝╚══════╝
 
-					Coinkite Open Incentives License
-				----------------------------------------
-				   Version 1. Last revised 2020-08-14
+              Coinkite Open Incentives License
+          ----------------------------------------
+             Version 1. Last revised 2020-08-14
 
 BY DOWNLOADING, INSTALLING USING, ACCESSING OR DISTRIBUTING THE
 SOFTWARE, YOU AGREE TO BECOME BOUND BY THE TERMS AND CONDITIONS OF THIS
@@ -54,7 +51,8 @@ a royalty-free, no-charge, non-exclusive, non-transferable right to:
 	automatically terminate upon your filing of any claim against
 	any person alleging that the Software infringes any patent.
 
-3. Conditions. The rights granted to you herein are subject to and conditional upon the following: 
+3. Conditions. The rights granted to you herein are subject to and 
+conditional upon the following: 
 
 	(a) If you:
 
