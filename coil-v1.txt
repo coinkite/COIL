@@ -1,14 +1,14 @@
 
-                ██████╗ ██████╗ ██╗██╗     
-                ██╔════╝██╔═══██╗██║██║     
-                ██║     ██║   ██║██║██║COIL
-                ██║     ██║   ██║██║██║v1
-                ╚██████╗╚██████╔╝██║███████╗
-                 ╚═════╝ ╚═════╝ ╚═╝╚══════╝
+                   ██████╗ ██████╗ ██╗██╗     
+                  ██╔════╝██╔═══██╗██║██║     
+                  ██║     ██║   ██║██║██║COIL
+                  ██║     ██║   ██║██║██║v1
+                  ╚██████╗╚██████╔╝██║███████╗
+                   ╚═════╝ ╚═════╝ ╚═╝╚══════╝
 
-              Coinkite Open Incentives License
-          ----------------------------------------
-             Version 1. Last revised 2020-08-14
+                Coinkite Open Incentives License
+            ----------------------------------------
+               Version 1. Last revised 2020-08-14
 
 BY DOWNLOADING, INSTALLING USING, ACCESSING OR DISTRIBUTING THE
 SOFTWARE, YOU AGREE TO BECOME BOUND BY THE TERMS AND CONDITIONS OF THIS
