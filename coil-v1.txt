@@ -1,0 +1,271 @@
+﻿
+					 ██████╗ ██████╗ ██╗██╗     
+					██╔════╝██╔═══██╗██║██║     
+					██║     ██║   ██║██║██║     
+					██║     ██║   ██║██║██║     
+					╚██████╗╚██████╔╝██║███████╗
+					 ╚═════╝ ╚═════╝ ╚═╝╚══════╝
+                            
+
+								COILv1
+
+					Coinkite Open Incentives License
+				----------------------------------------
+				   Version 1. Last revised 2020-08-14
+
+BY DOWNLOADING, INSTALLING USING, ACCESSING OR DISTRIBUTING THE
+SOFTWARE, YOU AGREE TO BECOME BOUND BY THE TERMS AND CONDITIONS OF THIS
+AGREEMENT. IF YOU DO NOT AGREE WITH THIS AGREEMENT, YOU MUST NOT DOWNLOAD,
+INSTALL, USE, ACCESS, DISTRIBUTE OR RETAIN ANY COPIES OF THE SOFTWARE.
+
+1. Software and Licensee. This Coinkite Open Incentives License (the
+“Agreement”) is a legally binding agreement regarding the software
+and all related documentation and other materials accompanying such
+software licensed under this Agreement, whether in source or object code
+form, as identified in a notice included in or with such materials (the
+“Software”), between you and the owner of such Software (“we”
+or “us”). In this Agreement, “you” means you, an individual
+human being, unless you are acting for and are authorized to act for a
+legal person, in which case the Agreement is with such legal person and
+references to “you” mean such legal person.
+
+2. License. Subject to the terms and conditions of this Agreement
+(including the conditions set forth in Section 3 below), we grant you
+a royalty-free, no-charge, non-exclusive, non-transferable right to:
+
+	(a) install, operate and use the Software and your Modifications;
+
+	(b) modify, port, translate, revise, adapt, link, integrate or
+	create derivative works of or works based on, the Software
+	(collectively, “Modify” and the resulting works
+	“Modifications”);
+
+	(c) distribute the Software and your Modifications;
+
+	(d) copy the Software and your Modifications as reasonably
+	required for any of the above; and
+
+	(e) exercise any of the above rights to the extent doing so
+	would necessarily infringe any patent claim licensable by us,
+	excluding in respect of your Modifications or to the extent
+	arising from the combination of Software, Modifications or both
+	with any third party product, service or software; provided
+	however that the right granted pursuant to this Section 2(e) will
+	automatically terminate upon your filing of any claim against
+	any person alleging that the Software infringes any patent.
+
+3. Conditions. The rights granted to you herein are subject to and conditional upon the following: 
+
+	(a) If you:
+
+	(i) distribute, license, sublicense, convey, transfer or otherwise
+	make available (collectively, “Distribute”) any Software or
+	Modifications; or
+
+	(ii) install, operate or use the Software or any Modifications to
+	provide or make available any functionality, use or benefit of
+	the Software or any Modifications as an application or software
+	as a service provider, a hosted service, a computer or processing
+	service business, a service bureau, an outsourced facility or
+	service, on a timesharing or similar basis or otherwise for
+	or on behalf of any third party, including without limitation
+	using the Software or any Modifications to convert, generate or
+	otherwise process the any work, models, data or other materials
+	of any person other than you (collectively, “Service Usage”),
+you must:
+
+	(iii) only Distribute the Software and Modifications under the
+	terms of this Agreement;
+
+	(iv) make the source code to all Software and Modifications
+	available at no charge under the terms of this Agreement;
+
+	(v) preserve all notices or legends pertaining to copyright
+	or other proprietary rights originally included in or with the
+	Software; and
+
+	(vi) if you Distribute Modifications or engage in Service Usage
+	using Modifications, include in or with such Modifications a
+	written notice indicating that you have Modified the Software.
+
+	(b) Notwithstanding anything to the contrary, you must not in any
+	event engage in any Commercial Distribution of any Software or
+	Modifications. For the purposes of this Agreement, “Commercial
+	Distribution” means any Distribution or Service Usage where
+	such activity:
+
+		(i) is, or is a material part of, an undertaking that is
+		a business, trade, commercial undertaking or an adventure
+		or concern in the nature of trade; or
+
+		(ii) directly or indirectly generates income,
+		compensation or profit, or is undertaken with the
+		objective or intent of directly or indirectly realizing
+		or generating income,compensation or profit, including
+		without limitation the provision of warranty,consulting
+		or other services for a fee	 and is related to
+		such Distribution or Service Usage, or the Software
+		or Modifications,or the sale of any product or device
+		related to such Distribution or Service Usage or that
+		uses or is intended to use the functions of any Software
+		or Modifications.
+
+4. Ownership. Except for the rights expressly granted to you
+under this Agreement, all right, title and interest (including all
+copyrights, trademarks, service marks, patents, inventions, trade secrets,
+intellectual property rights and other proprietary rights) in and to
+the Software (regardless of the form or media upon which such copies are
+recorded) are and shall remain exclusively owned by us. All trade names,
+company names, trademarks, service marks and other product and service
+names and logos in the Software are the proprietary marks of us or our
+licensors, and are protected by law and may not be copied, imitated
+or used, in whole or in part, without the consent of their respective
+owners. This Agreement does not grant you any rights in respect of any
+such marks.
+
+5. Third Party Software. Software may be provided or made
+available together with third party software (“Third Party
+Software”). Notwithstanding anything to the contrary herein, your use
+of any Third Party Software is governed exclusively by the licensing
+terms applicable to such Third Party Software and not this Agreement.
+
+6. Contributions to Coinkite. 
+
+	(a) If you intentionally submit, send, deliver, provide or make
+	available any Modifications or any documentation, feedback,
+	input, suggestions, recommendations, improvements, changes,
+	specifications, test results, vulnerability or bug reports,
+	or other data, information, materials or works of authorship
+	related to the Software or Modifications (collectively,
+	“Contributions”) to Coinkite Inc. (“Coinkite”) in any form
+	(including without limitation written, electronic or oral) and by
+	any means whatsoever (including without limitation e-mail, chat,
+	mailing lists, forums, uploads, file transfer, or any systems or
+	services for source code management or control, repository hosting
+	or issue tracking), but excluding any communication clearly marked
+	“Not a Contribution” at the time such communication is made,
+	you are deemed to have:
+
+		(i) assigned and conveyed to Coinkite an equal an
+		undivided joint ownership interest in and to the
+		Contributions and all intellectual property rights
+		therein and thereto, free and clear of any encumbrances
+		(the “Joint Interest”);
+
+		(ii) waived (and you will cause any other authors or
+		creators of the Contributions to waive) all moral and
+		similar rights in or to the Contributions; and
+
+		(iii) released and forever discharged Coinkite from any
+		and all claims, obligations and liabilities arising from
+		or related to the Joint Interest or Coinkite’s use or
+		ownership thereof.
+
+	(b) You represent and warrant that you are the sole author and
+	owner of the Contribution, that the Contribution is your original
+	creation and that you have the authority to convey the Joint
+	Interest to Coinkite and provide the waiver and release set forth
+	in Section 6(a) without infringing or violating the rights of any
+	third parties. You acknowledge and agree that Coinkite may (but
+	has no obligation to) use, Distribute, Modify or otherwise exploit
+	the Joint Interest in any manner whatsoever without consent,
+	any duty to account or any other obligation whatsoever. You
+	agree to promptly do such further acts and execute and deliver
+	such further documents as Coinkite may reasonably request to
+	better evidence or perfect the full intent of Section 6(a), to
+	confirm Coinkite’s title to the Joint Interest or to obtain,
+	register or enforce any right in or to the Joint Interest.
+
+7. Warranty Disclaimer. YOU ACKNOWLEDGE AND AGREE THAT ALL USE,
+MODIFICATION OR DISTRIBUTION OF THE SOFTWARE IS AT YOUR SOLE RISK AND
+THAT THE SOFTWARE IS PROVIDED ON AN “AS IS” BASIS. WE DISCLAIM ANY
+AND ALL REPRESENTATIONS, WARRANTIES OR CONDITIONS, EXPRESS, IMPLIED,
+STATUTORY OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY REPRESENTATIONS,
+WARRANTIES OR CONDITIONS OF MERCHANTABILITY, MERCHANTABLE QUALITY,
+DURABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE,
+QUIET ENJOYMENT OR QUIET POSSESSION AND THOSE ARISING BY STATUTE, IN
+LAW OR FROM A COURSE OF DEALING OR USAGE OF TRADE. WE DO NOT WARRANT
+THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT IT WILL BE FREE
+FROM ERRORS OR FUNCTION WITHOUT INTERRUPTION.
+
+8. Limitation of Liability. YOU AGREE THAT, TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE BE LIABLE FOR ANY
+DAMAGES OF ANY KIND, INCLUDING WITHOUT LIMITATION DIRECT, INDIRECT,
+CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, OR OTHER DAMAGES, OR DAMAGES
+FOR LOSS OF REVENUE, PROFITS, OR EXPECTED SAVINGS, BUSINESS INTERRUPTION,
+LOSS OF DATA OR INFORMATION OR OTHER PECUNIARY LOSS, EVEN IF WE FORESEE
+OR HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. Applicability. THE LIMITATIONS AND EXCLUSIONS OF LIABILITY AND
+DISCLAIMERS IN THIS AGREEMENT SHALL APPLY IRRESPECTIVE OF THE NATURE OF
+THE CAUSE OF ACTION, INCLUDING BREACH OF CONTRACT, NEGLIGENCE, TORT OR
+ANY OTHER LEGAL OR EQUITABLE THEORY, AND WILL SURVIVE A FUNDAMENTAL BREACH
+OR FAILURE OF THE ESSENTIAL PURPOSE OF THIS AGREEMENT OR ANY REMEDY. SOME
+JURISDICTIONS DO NOT ALLOW LIMITATIONS OR EXCLUSIONS OF CERTAIN TYPES OF
+DAMAGES AND/OR WARRANTIES AND CONDITIONS. THE LIMITATIONS, EXCLUSIONS
+AND DISCLAIMERS SET FORTH IN THIS AGREEMENT SHALL NOT APPLY IF AND TO
+THE EXTENT THAT THE LAWS OF A COMPETENT JURISDICTION REQUIRE LIABILITY
+BEYOND AND NOTWITHSTANDING SUCH LIMITATIONS, EXCLUSIONS AND DISCLAIMERS.
+
+10. Indemnity. You will indemnify and hold us harmless from and
+against all damages arising from or related to: (a) your breach of this
+Agreement; or (b) any third party claims arising from or related to your
+acts or omissions.
+
+11. Term and Termination. This Agreement will continue until
+terminated in accordance herewith. This Agreement will terminate
+automatically if you breach or otherwise fail to comply with this
+Agreement. Upon termination of this Agreement: (a) any and all rights
+granted to you under this Agreement shall immediately cease; and (b)
+you must destroy all of the Software and Modifications in your possession
+or control.
+
+12. Assignment. Except as expressly provided herein, you must not
+transfer or assign this Agreement, the Software or any rights granted
+to you hereunder in whole or in part, whether voluntarily, by operation
+of law or otherwise, without our prior written consent and any such
+attempted assignment or transfer shall be null and void.
+
+13. Governing Law. This Agreement will be deemed to have been made
+and performed exclusively in the Province of Ontario, Canada and will be
+governed by and construed under the laws thereof, without giving effect
+to its conflict of laws principles and without reference to the United
+Nations Convention on Contracts for the International Sale of Goods,
+the application of which is expressly excluded. You hereby irrevocably
+attorn to the exclusive jurisdiction of the courts of the Province of
+Ontario for any claim arising from or in connection with this Agreement
+and agree not to bring any action or proceeding against us in any
+jurisdiction other than the Province of Ontario.
+
+14. Entire Agreement. This Agreement constitutes the entire
+agreement between you and us with respect to its subject matter and
+cancels and supersedes any prior understandings and agreements. There
+are no representations, warranties, terms, conditions, undertakings or
+collateral agreements, express, implied or statutory, between you and
+us other than as expressly set forth in this Agreement. You represent
+and warrant that you have not been induced to enter into this Agreement
+by any other statement, representation or warranty not contained in
+this Agreement. The headings in this Agreement are for convenience of
+reference only and do not affect the construction or interpretation of
+this Agreement.
+
+15. Severability. To the extent that any provision of this
+Agreement is declared by a court or other lawful authority of competent
+jurisdiction to be invalid, illegal or unenforceable, this Agreement
+shall automatically terminate.
+
+16. Amendments and Waivers. No modification, amendment, addition
+to or waiver of any rights, obligations or defaults shall be effective
+unless in writing and signed by the party against whom the same is
+sought to be enforced. One or more waivers of any right, obligation or
+default shall be limited to the specific right, obligation or default
+waived and shall not be construed as a waiver of any subsequent right,
+obligation or default. No delay or failure of we in exercising any right
+hereunder and no partial or single exercise thereof shall be deemed of
+itself to constitute a waiver of such right or any other rights hereunder.
+
+17. The terms of this Agreement are Copyright © 2020
+Coinkite Inc. and are licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+
